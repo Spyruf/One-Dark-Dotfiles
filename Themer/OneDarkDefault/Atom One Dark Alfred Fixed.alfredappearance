@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 13,
+        "colorSelected" : "#98C379FF",
+        "font" : "Menlo",
+        "color" : "#767B85FF"
+      },
+      "shortcut" : {
+        "size" : 24,
+        "colorSelected" : "#E06C75FF",
+        "font" : "Menlo",
+        "color" : "#C678DDFF"
+      },
+      "backgroundSelected" : "#393E48FF",
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#BEC6CDFF",
+        "font" : "Menlo",
+        "color" : "#D19A66FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#282C34FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "Menlo",
+        "color" : "#C678DDFF"
+      },
+      "backgroundSelected" : "#B5D5FFFF"
+    },
+    "window" : {
+      "color" : "#282C34FF",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#E1404900",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "Rahul Batra",
+    "separator" : {
+      "color" : "#282B35FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#918F75FF",
+      "thickness" : 2
+    },
+    "name" : "Atom One Dark"
+  }
+}
